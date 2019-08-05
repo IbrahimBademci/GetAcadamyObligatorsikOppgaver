@@ -1,0 +1,14 @@
+C:\Users\Ibrahim\source\repos\Mandatory_Assaignment1\Mandatory_Assaignment1\bin\Debug\Mandatory_Assaignment1.exe.config
+C:\Users\Ibrahim\source\repos\Mandatory_Assaignment1\Mandatory_Assaignment1\bin\Debug\Mandatory_Assaignment1.exe
+C:\Users\Ibrahim\source\repos\Mandatory_Assaignment1\Mandatory_Assaignment1\bin\Debug\Mandatory_Assaignment1.pdb
+C:\Users\Ibrahim\source\repos\Mandatory_Assaignment1\Mandatory_Assaignment1\obj\Debug\Mandatory_Assaignment1.csprojAssemblyReference.cache
+C:\Users\Ibrahim\source\repos\Mandatory_Assaignment1\Mandatory_Assaignment1\obj\Debug\Mandatory_Assaignment1.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\Mandatory_Assaignment1\Mandatory_Assaignment1\obj\Debug\Mandatory_Assaignment1.exe
+C:\Users\Ibrahim\source\repos\Mandatory_Assaignment1\Mandatory_Assaignment1\obj\Debug\Mandatory_Assaignment1.pdb
+C:\Users\Ibrahim\Documents\GitHub\GetAcadamyObligatorsikOppgaver\Mandatory_Assaignment1\Mandatory_Assaignment1\bin\Debug\Mandatory_Assaignment1.exe.config
+C:\Users\Ibrahim\Documents\GitHub\GetAcadamyObligatorsikOppgaver\Mandatory_Assaignment1\Mandatory_Assaignment1\bin\Debug\Mandatory_Assaignment1.exe
+C:\Users\Ibrahim\Documents\GitHub\GetAcadamyObligatorsikOppgaver\Mandatory_Assaignment1\Mandatory_Assaignment1\bin\Debug\Mandatory_Assaignment1.pdb
+C:\Users\Ibrahim\Documents\GitHub\GetAcadamyObligatorsikOppgaver\Mandatory_Assaignment1\Mandatory_Assaignment1\obj\Debug\Mandatory_Assaignment1.csprojAssemblyReference.cache
+C:\Users\Ibrahim\Documents\GitHub\GetAcadamyObligatorsikOppgaver\Mandatory_Assaignment1\Mandatory_Assaignment1\obj\Debug\Mandatory_Assaignment1.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\Documents\GitHub\GetAcadamyObligatorsikOppgaver\Mandatory_Assaignment1\Mandatory_Assaignment1\obj\Debug\Mandatory_Assaignment1.exe
+C:\Users\Ibrahim\Documents\GitHub\GetAcadamyObligatorsikOppgaver\Mandatory_Assaignment1\Mandatory_Assaignment1\obj\Debug\Mandatory_Assaignment1.pdb
